@@ -1,12 +1,12 @@
 import "../css/style.css";
 import "../css/comditions.css";
 import {
-    getParkData,
-    getParkAlerts,
-    getParkVisitorCenters
+  getParkData,
+  getParkAlerts,
+getParkVisitorCenters
 } from "./parkService.mjs";
 import {
-    activityListTemplate,
+  activityListTemplate,
   alertTemplate,
   visitorCenterTemplate
 } from "./templates.mjs";
